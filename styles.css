@@ -31,10 +31,15 @@ p {
     color: #7ABFBF;  
 }
 
-.times {
+.time {
     list-style-type: none;
     background-color: #0D0D0D;
     color: #7ABFBF;
+    text-align: left;
+}
+
+.ingrediant {
+    text-align: right;
 }
 
 .gridcontainer {
