@@ -223,6 +223,26 @@ nav a:hover {
         grid-row: 1;
     }
 
+    .fb {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+    .ig {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .yt {
+        grid-column: 3;
+        grid-row: 1;
+    }
+
+    .tt {
+        grid-column: 4;
+        grid-row: 1;
+    }
+
     footer {
         font-size: 10px;
         background-color: #F2F2F2;
@@ -321,6 +341,26 @@ nav a:hover {
         grid-row: 2;
     }
 
+    .fb {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+    .ig {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .yt {
+        grid-column: 3;
+        grid-row: 1;
+    }
+
+    .tt {
+        grid-column: 4;
+        grid-row: 1;
+    }
+    
     footer {
         font-size: 15px;
         background-color: #F2F2F2;
@@ -398,6 +438,26 @@ nav a:hover {
         background-color: #7ABFBF;
         color: #0D0D0D;
     }    
+
+    .fb {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+    .ig {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .yt {
+        grid-column: 3;
+        grid-row: 1;
+    }
+
+    .tt {
+        grid-column: 4;
+        grid-row: 1;
+    }
 
     footer {
         font-size: 20px;
