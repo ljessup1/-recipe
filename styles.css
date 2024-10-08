@@ -124,6 +124,11 @@ h3 {
 nav a:hover {
     background-color: #EB5428;
 }
+
+.detail {
+    bacground-color: #0D0D0D;
+}
+
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 
 @media screen (min-width: 428px) {
