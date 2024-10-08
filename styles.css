@@ -41,6 +41,8 @@ p {
 
 .ingrediant {
     text-align: right;
+    background-color: #0D0D0D;
+    color: #7ABFBF;
 }
 
 .gridcontainer {
