@@ -329,38 +329,38 @@ nav a:hover {
     }
     
     .timeprep {
-        grid-column: 2;
+        grid-column: 1;
         grid-row: 2;
     }
     
     .cook {
-        grid-column: 2;
-        grid-row: 1;
+        grid-column: 1;
+        grid-row: 3;
     }
     
     .timecook {
         grid-column: 2;
-        grid-row: 2;
-    }
-    
-    .total {
-        grid-column: 4;
         grid-row: 1;
     }
     
-    .timetotal {
-        grid-column: 4;
+    .total {
+        grid-column: 2;
         grid-row: 2;
     }
     
+    .timetotal {
+        grid-column: 2;
+        grid-row: 3;
+    }
+    
     .author {
-        grid-column: 5;
+        grid-column: 3;
         grid-row: 1;
     }
     
     .nameauthor {
-        grid-column: 5;
-        grid-row: 2;
+        grid-column: 3;
+        grid-row: 3;
     }
     
     .serving {
